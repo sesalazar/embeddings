@@ -1,8 +1,6 @@
 streamlit
 numpy
 openai
-pandas
-requests
-io
-ast
+
 scipy
+
